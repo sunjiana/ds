@@ -33,7 +33,7 @@ urls = [
   # "https://tonkiang.us/hoteliptv.php?page=880&iphone16=%E5%90%89%E6%9E%97%E7%9C%81", # Jilinsheng 吉林
    "https://fofa.info/result?qbase64=IR1hUViIgJiYgY2l0eT0iaGFlcmJpbiI=", # 哈尔滨
    "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0iYmVpamluZyI=", # 北京
-   ""https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0idGlhbmppbmci", # 天津
+   "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0idGlhbmppbmci", # 天津
 ]
 
 results = []
