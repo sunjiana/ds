@@ -4861,3 +4861,8 @@ http://36.44.157.103:9901/iptv/live/1000.json?key=txiptv
 http://36.40.236.208:9999/iptv/live/1000.json?key=txiptv
 http://222.134.245.16:9901/iptv/live/1000.json?key=txiptv
 http://59.44.10.113:9901/iptv/live/1000.json?key=txiptv
+2025-05-01更新
+http://39.152.171.140:9901/iptv/live/1000.json?key=txiptv
+http://119.114.238.116:9902/iptv/live/1000.json?key=txiptv
+http://59.44.203.42:9901/iptv/live/1000.json?key=txiptv
+http://59.44.10.113:9901/iptv/live/1000.json?key=txiptv
