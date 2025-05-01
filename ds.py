@@ -33,8 +33,7 @@ urls = [
   # "https://tonkiang.us/hoteliptv.php?page=880&iphone16=%E5%90%89%E6%9E%97%E7%9C%81", # Jilinsheng 吉林
    "https://tv.zhoujie218.top/duocang/libs/jar/HCCX.jar",
    "https://raw.liucn.cc/box/libs/jar/HCCX.jar",
-   "https://raw.liucn.cc/box/libs/hccx/央视大全.json".
-   "https://raw.liucn.cc/box/libs/hccx/py_央视少儿.py",
+   "https://raw.liucn.cc/box/libs/hccx/央视大全.json",
 ]
 
 results = []
