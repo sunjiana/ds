@@ -10,7 +10,7 @@ import eventlet
 headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
 
 urls = [
-    "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0ic2hpamlhemh1YW5nIg%3D%3D",  #shijiazhuang 石家庄
+   # "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0ic2hpamlhemh1YW5nIg%3D%3D",  #shijiazhuang 石家庄
    # "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0iaGFuZGFuIg%3D%3D",  # handan 邯郸
    # "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0iYmFvZGluZyI%3D",  # baoding 保定
    # "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0idGFuZ3NoYW4i",  # tangshan 唐山
@@ -29,7 +29,7 @@ urls = [
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iaGVpbG9uZ2ppYW5nIg==", # heilongjiang 黑龙江
    # "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0ic2hlbnlhbmci", # liaoning 辽宁
   # "https://tonkiang.us/hoteliptv.php?page=880&iphone16=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81F", # Heilongjiangsheng 黑龙江 https://tonkiang.us/hoteliptv.php?page=880&iphone16=%E9%BB%91%E9%BE%99%E6%B1%9F&code=69013这个市全码
-  # "https://tonkiang.us/hoteliptv.php?page=880&iphone16=%E8%BE%BD%E5%AE%81%E7%9C%81", # Liaoningsheng 辽宁
+   "https://tonkiang.us/hoteliptv.php?page=880&iphone16=%E8%BE%BD%E5%AE%81%E7%9C%81", # Liaoningsheng 辽宁
   # "https://tonkiang.us/hoteliptv.php?page=880&iphone16=%E5%90%89%E6%9E%97%E7%9C%81", # Jilinsheng 吉林
    "https://fofa.info/result?qbase64=IR1hUViIgJiYgY2l0eT0iaGFlcmJpbiI=", # 哈尔滨
    "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0iYmVpamluZyI=", # 北京
