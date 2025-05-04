@@ -17,9 +17,9 @@ urls = [
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgc3ViZGl2aXNpb25zPSJsaWFvbmluZyI=", # 组辽宁
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgc3ViZGl2aXNpb25zPSJoZWlsb25namlhbmci", # 组 黑龙江
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgc3ViZGl2aXNpb25zPSJqaWxpbiI=", # 组 吉林
-   "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImppbGluIg==", #吉林 iptv
-   "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImhlYmVpIg==", # 河北 iptv
-   "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImJlaWppbmci", # iptv 北京/iptv/live/zh
+   # "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImppbGluIg==", #吉林 iptv
+   # "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImhlYmVpIg==", # 河北 iptv
+   # "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImJlaWppbmci", # iptv 北京/iptv/live/zh iptv/live/zh_cn.js只能用在new那种
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYmVpamluZyI=", # 北京城市版组 
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgc3ViZGl2aXNpb25zPSJoZWJlaSI=", # 组 河北
 ]
