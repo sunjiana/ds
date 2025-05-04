@@ -10,7 +10,22 @@ import eventlet
 headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
 
 urls = [
-   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0ic2hlbnlhbmci",
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0ic2hlbnlhbmci", # 沈阳
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iZGFsaWFuIg==", # 大连
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0icGFuamluIg==",
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYW5zaGFuIg==",
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYmVueGki",
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0idGllbGluZyI=",
+   "https://www.zoomeye.ai/searchResult?q=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iSmlsaW4i",
+   "https://www.zoomeye.ai/searchResult?q=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iaGVpbG9uZ2ppYW5nIg==",
+   "https://www.zoomeye.ai/searchResult?q=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0ibGlhb25pbmci",
+   "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImJlaWppbmci", # iptv 北京
+   "https://www.zoomeye.ai/searchResult?q=IR1hUViIgJiYgY2l0eT0iaGFlcmJpbiI=",
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYmVpamluZyI=", # 北京城市版组播
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0idGlhbmppbmci",
+
+   
+
 
 ]
 
