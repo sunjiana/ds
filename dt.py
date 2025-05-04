@@ -22,9 +22,8 @@ urls = [
    "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImppbGluIg==", #吉林 iptv
    "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImhlYmVpIg==", # 河北 iptv
    "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImJlaWppbmci", # iptv 北京/iptv/live/zh
-   "https://www.zoomeye.ai/searchResult?q=IR1hUViIgJiYgY2l0eT0iaGFlcmJpbiI=", # 哈尔滨
-   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYmVpamluZyI=", # 北京城市版组播
-   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0idGlhbmppbmci", # 天津 组播
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYmVpamluZyI=", # 北京城市版组 
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgc3ViZGl2aXNpb25zPSJoZWJlaSI=", # 组 河北
 
    
 
