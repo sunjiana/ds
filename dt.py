@@ -12,17 +12,19 @@ headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537
 urls = [
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0ic2hlbnlhbmci", # 沈阳
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iZGFsaWFuIg==", # 大连
-   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0icGFuamluIg==",
-   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYW5zaGFuIg==",
-   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYmVueGki",
-   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0idGllbGluZyI=",
-   "https://www.zoomeye.ai/searchResult?q=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iSmlsaW4i",
-   "https://www.zoomeye.ai/searchResult?q=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iaGVpbG9uZ2ppYW5nIg==",
-   "https://www.zoomeye.ai/searchResult?q=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0ibGlhb25pbmci",
-   "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImJlaWppbmci", # iptv 北京
-   "https://www.zoomeye.ai/searchResult?q=IR1hUViIgJiYgY2l0eT0iaGFlcmJpbiI=",
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0icGFuamluIg==", # 盘锦
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYW5zaGFuIg==", # anshan 鞍山
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYmVueGki", # benxi 本溪
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0idGllbGluZyI=", # tieling 铁岭
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgc3ViZGl2aXNpb25zPSJsaWFvbmluZyI=", # 组辽宁
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgc3ViZGl2aXNpb25zPSJoZWlsb25namlhbmci", # 组 黑龙江
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgc3ViZGl2aXNpb25zPSJqaWxpbiI=", # 组 吉林
+   "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImppbGluIg==", #吉林 iptv
+   "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImhlYmVpIg==", # 河北 iptv
+   "https://www.zoomeye.ai/searchResult?q=L2lwdHYvbGl2ZS96aF9jbi5qcyAmJiBzdWJkaXZpc2lvbnM9ImJlaWppbmci", # iptv 北京/iptv/live/zh
+   "https://www.zoomeye.ai/searchResult?q=IR1hUViIgJiYgY2l0eT0iaGFlcmJpbiI=", # 哈尔滨
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYmVpamluZyI=", # 北京城市版组播
-   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0idGlhbmppbmci",
+   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0idGlhbmppbmci", # 天津 组播
 
    
 
