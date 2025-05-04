@@ -47,7 +47,6 @@ urls = [
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYmVpamluZyI=", # 北京城市版组 
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgc3ViZGl2aXNpb25zPSJoZWJlaSI=", # 组 河北
 ]
-]
 
 results = []
 
