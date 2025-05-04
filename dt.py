@@ -12,9 +12,7 @@ headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537
 urls = [
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0ic2hlbnlhbmci", # 沈阳
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iZGFsaWFuIg==", # 大连
-   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0icGFuamluIg==", # 盘锦
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYW5zaGFuIg==", # anshan 鞍山
-   "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0iYmVueGki", # benxi 本溪
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgY2l0eT0idGllbGluZyI=", # tieling 铁岭
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgc3ViZGl2aXNpb25zPSJsaWFvbmluZyI=", # 组辽宁
    "https://www.zoomeye.ai/searchResult?q=IlpIR1hUViIgJiYgc3ViZGl2aXNpb25zPSJoZWlsb25namlhbmci", # 组 黑龙江
