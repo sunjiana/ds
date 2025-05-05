@@ -11,7 +11,7 @@ headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537
 
 urls = [
   
-# "https://www.shodan.io/search?query=ZHGXTV", # 不能连抓取，之前第一次成功了
+"https://www.shodan.io/search?query=ZHGXTV", # 不能连抓取，之前第一次成功了
 "http://60.22.88.3:8002",
 "http://113.7.229.136:9000",
 "http://122.159.168.193:9000",
