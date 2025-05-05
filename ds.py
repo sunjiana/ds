@@ -25,13 +25,16 @@ urls = [
     "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0iYW5zaGFuIg==",  # anshan 鞍山 d多
     "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0iYmVueGki",  # benxi 本溪 4
     "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0idGllbGluZyI=", # tieling 铁岭 1
+    "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgcmVnaW9uPSLovr3lroEi", # 组播辽宁
+    "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgcmVnaW9uPSLpu5HpvpnmsZ8i", # 组播黑龙
+    "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgcmVnaW9uPSJqaWxpbiI=", # 组吉
    # "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iSmlsaW4i" # jilin 吉林 不是组播源 iptv/live/zh_cn.js 只能用在new的里面
    # "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iaGVpbG9uZ2ppYW5nIg==", # heilongjiang 黑龙江
   #  "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0ibGlhb25pbmci", # liaoning 辽宁
   # "https://tonkiang.us/hoteliptv.php?page=880&iphone16=%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81F", # Heilongjiangsheng 黑龙江 https://tonkiang.us/hoteliptv.php?page=880&iphone16=%E9%BB%91%E9%BE%99%E6%B1%9F&code=69013这个市全码
   # "https://tonkiang.us/hoteliptv.php?page=880&iphone16=%E8%BE%BD%E5%AE%81%E7%9C%81", # Liaoningsheng 辽宁
   # "https://tonkiang.us/hoteliptv.php?page=880&iphone16=%E5%90%89%E6%9E%97%E7%9C%81", # Jilinsheng 吉林
-   "https://fofa.info/result?qbase64=IR1hUViIgJiYgY2l0eT0iaGFlcmJpbiI=", # 哈尔滨
+  # "https://fofa.info/result?qbase64=IR1hUViIgJiYgY2l0eT0iaGFlcmJpbiI=", # 哈尔滨
    "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0iYmVpamluZyI=", # 北京
    "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0idGlhbmppbmci", # 天津
    
