@@ -2,7 +2,7 @@ name: itvlist
 
 on:
   schedule:
-    - cron: '0 21 * * *'
+    - cron: '40 */12 * * *' # 这里更改自动运行的时间#_udp
   workflow_dispatch:
   #push:
     #branches:
