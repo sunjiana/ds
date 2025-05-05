@@ -11,8 +11,7 @@ headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537
 
 urls = [
   
-# "https://www.shodan.io/search?query=ZHGXTV",
-  "https://www.shodan.io/search?query=ZHGXTV+org%3A%22CHINANET+HEILONGJIANG+PROVINCE+NETWORK%22",
+ "https://www.shodan.io/search?query=ZHGXTV",
    
 ]
 
