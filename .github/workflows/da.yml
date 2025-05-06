@@ -2,7 +2,7 @@ name: itvlist
 
 on:
   schedule:
-    - cron: '0 21 * * 2,5,6'
+    - cron: '0 21 * * 2,4,6'
   workflow_dispatch:
   #push:
     #branches:
