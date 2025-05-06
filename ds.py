@@ -38,8 +38,8 @@ urls = [
   # "https://fofa.info/result?qbase64=IR1hUViIgJiYgY2l0eT0iaGFlcmJpbiI=", # 哈尔滨
    "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0iYmVpamluZyI=", # 北京
   # "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0idGlhbmppbmci", # 天津
-   
-]
+   "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgcmVnaW9uPSJsaWFvbmluZyIg",#  "ZHGXTV" && region="liaoning" 要求辽
+] 
 
 results = []
 
