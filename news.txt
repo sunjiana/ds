@@ -1,3 +1,6 @@
+CCTV2,http://59.44.10.113:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://59.44.10.113:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://59.44.10.113:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://www.zhongyuntv.com:58008/paiptv/cctv1.m3u8
 CCTV2,http://www.zhongyuntv.com:58008/paiptv/cctv2.m3u8
 CCTV3,http://www.zhongyuntv.com:58008/paiptv/cctv3.m3u8
@@ -102,6 +105,3 @@ CETV2,http://101.18.24.248:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&aut
 CETV4,http://101.18.24.248:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 中国交通,http://101.18.24.248:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://101.18.24.248:808/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://59.44.10.113:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://59.44.10.113:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://59.44.10.113:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
