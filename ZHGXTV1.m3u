@@ -1,13 +1,1 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV12
-http://120.211.62.180:8000/hls/12/index.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://120.211.62.180:8000/hls/35/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://120.211.62.180:8000/hls/23/index.m3u8
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://120.211.62.180:8000/hls/21/index.m3u8
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://120.211.62.180:8000/hls/39/index.m3u8
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://120.211.62.180:8000/hls/25/index.m3u8
