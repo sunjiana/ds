@@ -1,3 +1,6 @@
 央视频道,#genre#
+CCTV7,http://119.51.64.79:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 卫视频道,#genre#
+河北卫视,http://119.51.64.79:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://119.51.64.79:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 其他频道,#genre#
