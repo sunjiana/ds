@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://222.163.9.138:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://222.163.9.138:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://222.163.9.138:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://222.163.9.138:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://222.163.9.138:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://222.163.9.138:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
