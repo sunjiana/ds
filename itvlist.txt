@@ -1,8 +1,3 @@
 央视频道,#genre#
-CCTV15,http://120.238.94.10:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
-北京卫视,http://120.238.94.10:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://120.238.94.10:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
-中国教育,http://120.238.94.10:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-惠州公共,http://120.238.94.10:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
