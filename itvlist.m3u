@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
