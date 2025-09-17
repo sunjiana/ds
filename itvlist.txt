@@ -1,5 +1,3 @@
 央视频道,#genre#
 卫视频道,#genre#
 其他频道,#genre#
-世界地理,http://120.238.94.10:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
