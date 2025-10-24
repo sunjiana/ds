@@ -1,3 +1,8 @@
 央视频道,#genre#
 卫视频道,#genre#
+广东卫视,http://120.238.94.10:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
+梅州2,http://120.238.94.10:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+南方一,http://120.238.94.10:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://120.238.94.10:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+相声小品,http://120.238.94.10:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
